@@ -18,36 +18,30 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/salom%C3%B3n-morales-661428195/" target="blank"><p>👤</p></a>
 Developer the " Frontend | Backend | DevOps | Tester " in process.  
 
-
-
 ## Habilidades
-
-[![Html5]]()
-css|sass
-VisualStudio
-Figma
-
 </br>
+HTML5 css/sass  VisualStudio  Figma
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-</br>
+
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 </br>
-And more...
 
 <!--
 ## Proyectos
 
- | [Ludotech E-commerce](https://lodotechgames.herokuapp.com/) | [Nosy Game](https://nosygame.herokuapp.com/) |
+ | [Portafolio Salo](https://salosmc.github.io/Front-End/Portafolio/) | [Nosy Game](https://nosygame.herokuapp.com/) |
  | --- | --- | 
- | ![Ludotech](assets/ludotech.png) | ![Nosy](assets/nosy.png) |
+ | ![Portafolio](assets/ludotech.png) | ![Nosy](assets/nosy.png) |
  | Ludotech es un ecommerce orientado a juegos de mesa. Por lo que la estética de la misma se realizó colorida y alegre. Se encuentra nuestro personaje principal llamado Ludo, el cual es nuestro bot y ayudará a nuestros usuarios en la estadía de nuestra página. El mismo cuenta con su versión mobile. El proyecto fue realizado en 10 días. | Nosy es un juego dinámico similar a Preguntados, responde correctamente a preguntas de forma consecutiva para ganar todos los personajes y ser el ganador. Cada pregunta es aleatoria por categoría y éstas son al azar al girar una ruleta colorida con nuestros personajes |
  | [Ver repositorio]() - [Ver web](https://lodotechgames.herokuapp.com/)| Repositorio privado - [Ver web](https://nosygame.herokuapp.com/) |
  | **Colaboradores:** [Laura Therisod](https://github.com/ltherisod), [Jonathan Mardones](https://github.com/jmardones94), [Franco Quattrini](https://github.com/franqodev), [Sebastian Campos](https://github.com/bastiampos), [Juan Castro](https://github.com/JuanEduardoCastro), [Mariángeles Quiroga](https://github.com/meriquiroga), [Diego Iglesias](https://github.com/diegoiglesiasrojo) | **Colaboradores:** [Daniel Sepúlveda](https://github.com/DanSepulveda), [Rafael Mian](https://github.com/rafaelmian1), [Micaela Torre](https://github.com/micaela-torre), [Sabrina Calivar](https://github.com/sabricalivar), [Uriel Alessandro](https://github.com/UriAlessa), [Sebastian Campos](https://github.com/bastiampos) |
 
--->
+
 
 <!--
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Brais Moure
