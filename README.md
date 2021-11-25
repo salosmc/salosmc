@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **salosmc/salosmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +18,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/salom%C3%B3n-morales-661428195/" target="blank"><p>👤</p></a>
 Developer the " Frontend | Backend | DevOps | Tester " in process.  
 
-<!--
+
 <div>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=bastiampos&layout=compact&show_icons=true&theme=dark&include_all_commits=true&locale=es&custom_title=Estadísticas+de+GitHub" />
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastiampos&layout=compact&theme=dark&custom_title=Uso+de+lenguajes" />
 </div>
+
+<!--
 
 ## Habilidades
 <p align="left"> 
