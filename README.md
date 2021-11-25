@@ -13,14 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hola, soy Salo 👋 
-<a href="mailto:salo_smc@hotmail.com" target="blank"><p>💌</p></a>
-<a href="https://www.linkedin.com/in/salom%C3%B3n-morales-661428195/" target="blank"><p>👤</p></a>
-Developer the " Frontend | Backend | DevOps | Tester " in process.  
+# Hola, soy Salo 👋 
+### Intento de Frontend | Backend | DevOps | Tester 😄
+
+</br>
+
+Bienvenidos !!! gracias por pasar por mi repo, se agradece mucho el feedback que quieran darme y invitacion para particiar y colaborar en otros proyectos.
+Actualmente soy estudiante en Digital House de la carrera de Certified Tech Developer y todos mis repos son proyectos que uso para practicar.
+
+</br>
 
 ## Habilidades
+
 </br>
-HTML5 css/sass  VisualStudio  Figma
+
+[![Html](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
+
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -29,18 +39,30 @@ HTML5 css/sass  VisualStudio  Figma
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+[![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=101010)]()
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=101010)]()
+
 </br>
 
-<!--
 ## Proyectos
 
- | [Portafolio Salo](https://salosmc.github.io/Front-End/Portafolio/) | [Nosy Game](https://nosygame.herokuapp.com/) |
- | --- | --- | 
- | ![Portafolio](assets/ludotech.png) | ![Nosy](assets/nosy.png) |
- | Ludotech es un ecommerce orientado a juegos de mesa. Por lo que la estética de la misma se realizó colorida y alegre. Se encuentra nuestro personaje principal llamado Ludo, el cual es nuestro bot y ayudará a nuestros usuarios en la estadía de nuestra página. El mismo cuenta con su versión mobile. El proyecto fue realizado en 10 días. | Nosy es un juego dinámico similar a Preguntados, responde correctamente a preguntas de forma consecutiva para ganar todos los personajes y ser el ganador. Cada pregunta es aleatoria por categoría y éstas son al azar al girar una ruleta colorida con nuestros personajes |
- | [Ver repositorio]() - [Ver web](https://lodotechgames.herokuapp.com/)| Repositorio privado - [Ver web](https://nosygame.herokuapp.com/) |
- | **Colaboradores:** [Laura Therisod](https://github.com/ltherisod), [Jonathan Mardones](https://github.com/jmardones94), [Franco Quattrini](https://github.com/franqodev), [Sebastian Campos](https://github.com/bastiampos), [Juan Castro](https://github.com/JuanEduardoCastro), [Mariángeles Quiroga](https://github.com/meriquiroga), [Diego Iglesias](https://github.com/diegoiglesiasrojo) | **Colaboradores:** [Daniel Sepúlveda](https://github.com/DanSepulveda), [Rafael Mian](https://github.com/rafaelmian1), [Micaela Torre](https://github.com/micaela-torre), [Sabrina Calivar](https://github.com/sabricalivar), [Uriel Alessandro](https://github.com/UriAlessa), [Sebastian Campos](https://github.com/bastiampos) |
+</br>
 
+ | [Portafolio Salo](https://salosmc.github.io/Front-End/Portafolio/) | [To-Do](https://nosygame.herokuapp.com/) |
+ | --- | --- | 
+ | ![Portafolio](img/AvatarSalo.svg) | ![To-Do](img/persona-login.png) |
+ | Comparto mi portafolio web creado para mostrar algunos de los proyectos que he usado para practicar. El temple lo descargue de Star Bootstrap la idea era aprender a trabajar sobre algo ya desarrollado y entender la documentacion. | To-Do es proyecto base para practicar validaciones y consumir APIs. Actualmente sigue en proceso ya que estoy refactorizando y integrando lo aprendido recientemente de testing con Jest. |
+ | [Ver repositorio](https://github.com/salosmc/Front-End/tree/main/Portafolio) - [Ver web](https://salosmc.github.io/Front-End/Portafolio/)| Repositorio privado - [Ver web](https:) |
+
+</br>
+
+## Contacto:
+
+</br>
+
+[![LinkeIn](https://img.shields.io/badge/LinkedIn-mi_perfil_laboral_(respondo_rapido)_gracias!-orange?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/salom%C3%B3n-morales-661428195/)
+
+[![Email](https://img.shields.io/badge/salo__smc@hotmail.com-mi_email_personal_(respondo_lento)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:salo_smc@hotmail.com)
 
 
 <!--
