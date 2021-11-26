@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 </br>
 
-Bienvenidos !!! gracias por pasar por mi repo, se agradece mucho el feedback que quieran darme y invitacion para particiar y colaborar en otros proyectos.
+Bienvenidos !!! gracias por pasar por mi repo, se agradece mucho el feedback que quieran darme y tambien estoy interesado en participar y colaborar en proyectos de terceros 😅.
 Actualmente soy estudiante en Digital House de la carrera de Certified Tech Developer y todos mis repos son proyectos que uso para practicar.
 
 </br>
@@ -48,10 +48,10 @@ Actualmente soy estudiante en Digital House de la carrera de Certified Tech Deve
 
 </br>
 
- | [Portafolio Salo](https://salosmc.github.io/Front-End/Portafolio/) | [To-Do](https://nosygame.herokuapp.com/) |
+ | [Portafolio](https://salosmc.github.io/Front-End/Portafolio/) | [To-Do](https://nosygame.herokuapp.com/) |
  | --- | --- | 
  | ![Portafolio](img/AvatarSalo.svg) | ![To-Do](img/persona-login.png) |
- | Comparto mi portafolio web creado para mostrar algunos de los proyectos que he usado para practicar. El temple lo descargue de Star Bootstrap la idea era aprender a trabajar sobre algo ya desarrollado y entender la documentacion. | To-Do es proyecto base para practicar validaciones y consumir APIs. Actualmente sigue en proceso ya que estoy refactorizando y integrando lo aprendido recientemente de testing con Jest. |
+ | Comparto mi portafolio web creado para mostrar algunos de los proyectos que he usado para practicar. El temple lo descargue de Star Bootstrap la idea era aprender a trabajar sobre algo ya desarrollado y entender la documentacion. | To-Do es un proyecto base para practicar validaciones y consumir APIs. Actualmente sigue en proceso ya que estoy refactorizando y integrando lo aprendido recientemente de testing con Jest. |
  | [Ver repositorio](https://github.com/salosmc/Front-End/tree/main/Portafolio) - [Ver web](https://salosmc.github.io/Front-End/Portafolio/)| Repositorio privado - [Ver web](https:) |
 
 </br>
